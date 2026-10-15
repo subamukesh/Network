@@ -1,0 +1,7 @@
+
+[
+  {
+    "name": "web-container",
+    "imageUri": "REPLACE_WITH_YOUR_ECR_IMAGE_URI"
+  }
+]
